@@ -110,7 +110,4 @@ The percentage of:-
     - We conclude that Gaussian NB classifier performs the best on this dataset with 83.61% Accuracy
 
 
-## Dashboard
-Dashboard is designed from Microsoft Power BI
-- ![Screenshot (523)](https://user-images.githubusercontent.com/108801533/189523191-f5c3acf4-c702-47ef-8b23-b7a237755354.png)
-- ![Screenshot (525)](https://user-images.githubusercontent.com/108801533/189523188-17f093de-29b3-4643-9c94-43f578742a9b.png)
+
